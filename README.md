@@ -1,4 +1,4 @@
-# DeepForestVision
+# DeepForestVision - Automated wildlife identification in African tropical forests
 
 ## Foreword
 DeepForestVision is developed under CC BY-NC-SA 4.0 license by the One Forest Vision initiative (https://www.oneforestvision.org).
