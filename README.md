@@ -3,7 +3,7 @@
 ## Foreword
 DeepForestVision is developed under CC BY-NC-SA 4.0 license
 
-This Github provides the DINOv2 model weights as well as a Python code to run DeepForestVision on photos and videos.
+This Github provides the model weights as well as a Python code to run DeepForestVision on photos and videos.
 DeepForestVision is also publicly available in the AddaxAI interface (https://addaxdatascience.com/addaxai/),
 that can be run on Windows, Linux and MacOS without programming knowledge.
 
