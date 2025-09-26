@@ -1,12 +1,11 @@
-# DeepForestVision - reviewers only
+# DeepForestVision
 
 ## Foreword
 DeepForestVision is developed under CC BY-NC-SA 4.0 license
 
-DeepForestVision will be made publicly available in the AddaxAI interface (https://addaxdatascience.com/addaxai/),
-that can be run on Windows, Linux and MacOS. Pending public release, we provide this Python code for reviewers to run the algorithm on Windows, Linux and MacOS.
-It will also be made public on the project Github page.
-
+This Github provides the DINOv2 model weights as well as a Python code to run DeepForestVision on photos and videos.
+DeepForestVision is also publicly available in the AddaxAI interface (https://addaxdatascience.com/addaxai/),
+that can be run on Windows, Linux and MacOS without programming knowledge.
 
 ## Using DeepForestVision
 
