@@ -1,7 +1,9 @@
 # DeepForestVision - Automated wildlife identification in African tropical forests
 
 ## Foreword
-DeepForestVision is developed under CC BY-NC-SA 4.0 license by the One Forest Vision initiative (https://www.oneforestvision.org).
+DeepForestVision is developed under CC BY-NC-SA 4.0 license by the One Forest Vision initiative.
+https://www.oneforestvision.org
+https://creativecommons.org/licenses/by-nc-sa/4.0
 
 This Github provides the model weights as well as a Python code to run DeepForestVision on photos and videos.
 DeepForestVision is also publicly available in the AddaxAI interface (https://addaxdatascience.com/addaxai/),
