@@ -2,6 +2,7 @@
 
 ## Foreword
 DeepForestVision is developed under CC BY-NC-SA 4.0 license by the One Forest Vision initiative.
+
 https://www.oneforestvision.org
 https://creativecommons.org/licenses/by-nc-sa/4.0
 
